@@ -1,0 +1,12 @@
+.on img {
+  box-shadow: 4px 3px black; }
+
+#entry-pct img {
+  width: 1080px;
+  height: 768px; }
+
+#thumbs li {
+  display: inline-block;
+  margin: 10px; }
+
+/*# sourceMappingURL=style.css.map */
